@@ -1,0 +1,17 @@
+/*1. Escreva um programa que solicita o nome e a altura de 5 atletas. 
+Ao final da entrada de dados, informe A ALTURA do atleta mais alto.*/
+
+INICIO 
+nome 
+altura
+
+
+atleta_01 = nome altura 
+atleta_02
+atleta_03
+atleta_04
+atleta_05
+
+
+
+FIM 

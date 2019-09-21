@@ -1,0 +1,30 @@
+1.2. Faça o mesmo programa anterior, agora com 3 palpites.
+
+INICIO
+
+    num_1 = numero_recebido_do_usuario
+    sorte = numero_randomico
+
+    se num_1 == sorte
+        retorna Parabéns, você acertou!
+    senão 
+        se sorte > num_1
+            sorte é maior que o num_1
+
+            num_2 = numero_recebido_do_usuario
+
+            se num_2 == sorte 
+                Parabéns
+            senao
+
+
+        senao
+            sorte é menor que o num_1
+
+            num_2 = numero_recebido_do_usuario
+
+            se num_2 ==sorte     
+FIM
+
+
+******RESOLUÇÃO COM O WHILE*****

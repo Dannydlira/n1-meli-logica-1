@@ -1,0 +1,24 @@
+/*1.1. Escreva um programa que sorteia um número de 1 a 10, dá duas chances para que o usuário acerte, 
+mas informa se o número sorteado é maior ou menor que o primeiro palpite.*/
+
+INICIO
+
+    num = numero_recebido_do_usuario
+    sorte = numero_randomico
+
+    se num == sorte
+        retorna Parabéns, você acertou!
+    senão 
+        num2 = numero_recebido_do_usuario
+        se num2 == sorte
+            retorna Parabéns, você acertou!
+        senão
+            retorna não foi dessa vez
+
+            numero = numemro_recebido_do_usuario
+    se numero > 10 
+        retorna número maior que 10
+    senão 
+        retorna número menor que dez
+
+FIM
